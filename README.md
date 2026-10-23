@@ -7,10 +7,10 @@ Menu interativo, tudo **reversível** (backup automático + `Restore-IRM.ps1`).
 
 ```powershell
 # Versão estável (última release publicada)
-irm https://github.com/SEU-USUARIO/IRM-Otimizador/releases/latest/download/otimizar.ps1 | iex
+irm https://github.com/wleeo/IRM-Otimizador/releases/latest/download/otimizar.ps1 | iex
 
 # Versão dev (branch main — para testar mudanças novas)
-irm https://raw.githubusercontent.com/SEU-USUARIO/IRM-Otimizador/main/otimizar.ps1 | iex
+irm https://raw.githubusercontent.com/wleeo/IRM-Otimizador/main/otimizar.ps1 | iex
 ```
 
 Requer: PowerShell 5.1+ · Executar como administrador (o script se auto-eleva sozinho).

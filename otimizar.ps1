@@ -5,7 +5,7 @@
 #  Tudo reversivel: backup em %USERPROFILE%\IRM-Backup
 # ==============================================================
 
-$IRM_URL = 'https://irm.abysm.com.br/otimizar.ps1'   # usado na auto-elevacao (irm | iex)
+$IRM_URL = 'https://github.com/wleeo/IRM-Otimizador/releases/latest/download/otimizar.ps1'   # usado na auto-elevacao (release estavel via IRM)
 $AkerSetupUrl = 'https://irm.abysm.com.br/aker/setup.exe'   # <<< suba o instalador do Aker no bucket (pasta aker/)
 $ScriptVersion = '1.1.0'
 
