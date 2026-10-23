@@ -1,0 +1,24 @@
+# ---- Binarios / instaladores locais (vao pro R2/Releases, nunca pro git) ----
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
+
+# ---- Artefatos locais que a propria ferramenta gera em %USERPROFILE%\IRM-Backup ----
+*.reg
+manifest.json
+Restore-IRM.ps1
+
+# ---- Dados de clientes (nunca commitar) ----
+clientes/
+*cliente*
+*-local.*
+*.xlsx
+*.xls
+
+# ---- Lixo de sistema/machine ----
+*.log
+Thumbs.db
+desktop.ini
+~$*
