@@ -1,6 +1,7 @@
 ﻿# ==============================================================
-#  IRM OTIMIZADOR v1.0 - Manutencao & Performance Windows 10/11
-#  Uso:  irm https://SEU-HOST/otimizar.ps1 | iex
+#  IRM OTIMIZADOR v1.1 - Manutencao & Performance Windows 10/11
+#  Uso:  irm https://raw.githubusercontent.com/wleeo/IRM-Otimizador/main/otimizar.ps1 | iex
+#  Uso (estavel): irm https://github.com/wleeo/IRM-Otimizador/releases/latest/download/otimizar.ps1 | iex
 #  Requer: PowerShell 5.1+ | Executar como Administrador
 #  Tudo reversivel: backup em %USERPROFILE%\IRM-Backup
 # ==============================================================
